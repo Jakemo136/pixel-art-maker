@@ -1,0 +1,13 @@
+.card {
+  
+  height: 720px;
+  width: 700px;
+}
+
+.card-title {
+  text-align: center;
+}
+
+.color-buttons {
+margin: 1.5rem;
+}
